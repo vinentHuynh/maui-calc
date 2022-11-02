@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xaml-comp compile="true" ?>
+<ResourceDictionary 
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="Calculator.GreenMode">
+
+    <Color x:Key="Primary">#512BD4</Color>
+    <Color x:Key="Light">#b9aaee</Color>
+    <Color x:Key="Dark">#2B0B98</Color>
+    <Color x:Key="White">White</Color>
+    <Color x:Key="Black">Black</Color>
+    <Color x:Key="LightGray">#E5E5E1</Color>
+    <Color x:Key="MidGray">#969696</Color>
+    <Color x:Key="DarkGray">#505050</Color>
+    <Color x:Key="ButtonBackgroundColor">DarkGreen</Color>
+    <Color x:Key="ButtonTextColor">White</Color>
+    <Color x:Key="PageBackgroundColor">LightGreen</Color>
+    <Color x:Key="LabelTextColor">White</Color>
+    <Color x:Key="FlyoutBackground">#54C161</Color>
+    <Color x:Key="ButtonColor">DarkGray</Color>
+    <Color x:Key="MeetTheDevsBackground">DarkGreen</Color>
+    <Color x:Key="LowerAboutBackground">LightGray</Color>
+</ResourceDictionary>

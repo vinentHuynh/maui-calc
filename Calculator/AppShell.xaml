@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="Calculator.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:Calculator"
+    Shell.FlyoutBehavior="Flyout"
+    FlyoutBackgroundColor="{DynamicResource FlyoutBackground}">
+
+    <Shell.FlyoutIcon>
+        <FontImageSource Color="LightGrey" Size="24" Glyph="&#xf30c;"/>
+    </Shell.FlyoutIcon>
+
+    <FlyoutItem Title="Calculator" Icon="calc.png">
+        <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Calculator Lite" Icon="gear">
+        <ShellContent
+            Title="Calculator Lite"
+            ContentTemplate="{DataTemplate local:BasicCalc}"
+            Route="CalculatorPlus" />
+    </FlyoutItem>  
+
+    <FlyoutItem Title="About" Icon="about.svg">
+        <ShellContent
+        Title="About"
+        ContentTemplate="{DataTemplate local:AboutPage}"
+        Route="AboutPage" />
+    </FlyoutItem>
+
+    <MenuItem
+        Text="Light Mode"
+        Clicked="OnLight">
+    </MenuItem>
+
+    <MenuItem
+        Text="Dark Mode"
+        Clicked="OnDark">
+    </MenuItem>
+
+    <MenuItem
+        Text="Green Mode"
+        Clicked="OnGreen">
+    </MenuItem>
+
+    <MenuItem
+        Text="Pink Mode"
+        Clicked="OnPink">
+    </MenuItem>
+</Shell>
+

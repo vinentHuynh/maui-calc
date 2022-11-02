@@ -1,0 +1,76 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Calculator
+build_property.ProjectDir = C:\Users\vince\OneDrive\Documents\GitHub\maui-calculator\Calculator\
+
+[C:/Users/vince/OneDrive/Documents/GitHub/maui-calculator/Calculator/AboutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.AboutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AboutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AboutPage.xaml
+
+[C:/Users/vince/OneDrive/Documents/GitHub/maui-calculator/Calculator/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/vince/OneDrive/Documents/GitHub/maui-calculator/Calculator/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/vince/OneDrive/Documents/GitHub/maui-calculator/Calculator/BasicCalc.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.BasicCalc.xaml
+build_metadata.AdditionalFiles.TargetPath = BasicCalc.xaml
+build_metadata.AdditionalFiles.RelativePath = BasicCalc.xaml
+
+[C:/Users/vince/OneDrive/Documents/GitHub/maui-calculator/Calculator/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/vince/OneDrive/Documents/GitHub/maui-calculator/Calculator/Platforms/Android/Resources/values/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.Platforms.Android.Resources.values.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Platforms\Android\Resources\values\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Platforms\Android\Resources\values\Colors.xaml
+
+[C:/Users/vince/OneDrive/Documents/GitHub/maui-calculator/Calculator/Platforms/Android/Resources/values/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.Platforms.Android.Resources.values.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Platforms\Android\Resources\values\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Platforms\Android\Resources\values\Styles.xaml
+
+[C:/Users/vince/OneDrive/Documents/GitHub/maui-calculator/Calculator/Resources/Styles/DarkMode.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.Resources.Styles.DarkMode.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\DarkMode.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\DarkMode.xaml
+
+[C:/Users/vince/OneDrive/Documents/GitHub/maui-calculator/Calculator/Resources/Styles/GreenMode.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.Resources.Styles.GreenMode.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\GreenMode.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\GreenMode.xaml
+
+[C:/Users/vince/OneDrive/Documents/GitHub/maui-calculator/Calculator/Resources/Styles/LightMode.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.Resources.Styles.LightMode.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\LightMode.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\LightMode.xaml
+
+[C:/Users/vince/OneDrive/Documents/GitHub/maui-calculator/Calculator/Resources/Styles/PinkMode.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.Resources.Styles.PinkMode.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\PinkMode.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\PinkMode.xaml
