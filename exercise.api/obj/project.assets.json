@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vincenthuynh/School/Coding/maui-calc/exercise-api/exercise-api.csproj",
+      "projectUniqueName": "/Users/vincenthuynh/School/Coding/maui-calc/exercise.api/exercise-api.csproj",
       "projectName": "exercise-api",
-      "projectPath": "/Users/vincenthuynh/School/Coding/maui-calc/exercise-api/exercise-api.csproj",
+      "projectPath": "/Users/vincenthuynh/School/Coding/maui-calc/exercise.api/exercise-api.csproj",
       "packagesPath": "/Users/vincenthuynh/.nuget/packages/",
-      "outputPath": "/Users/vincenthuynh/School/Coding/maui-calc/exercise-api/obj/",
+      "outputPath": "/Users/vincenthuynh/School/Coding/maui-calc/exercise.api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vincenthuynh/.nuget/NuGet/NuGet.Config"
