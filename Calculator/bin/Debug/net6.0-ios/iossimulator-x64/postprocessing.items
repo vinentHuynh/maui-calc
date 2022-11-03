@@ -9,7 +9,7 @@
       <dSYMInfoPlistRelativePath>Calculator.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
       <SymbolFile>obj/Debug/net6.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
       <DSymName>Calculator.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/tuan/Desktop/maui-calculator/Calculator</SourceProjectPath>
+      <SourceProjectPath>/Users/tuan/Desktop/maui-calc/Calculator</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>

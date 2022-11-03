@@ -21,4 +21,6 @@
     <Color x:Key="ButtonColor">White</Color>
     <Color x:Key="MeetTheDevsBackground">#512BD4</Color>
     <Color x:Key="LowerAboutBackground">Black</Color>
+    <Color x:Key="ChoiceButtonBackground">White</Color>
+    <Color x:Key="ChoiceButtonText">Black</Color>
 </ResourceDictionary>

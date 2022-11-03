@@ -21,6 +21,8 @@
     <Color x:Key="ButtonColor">DarkGray</Color>
     <Color x:Key="MeetTheDevsBackground">#b9aaee</Color>
     <Color x:Key="LowerAboutBackground">White</Color>
+    <Color x:Key="ChoiceButtonBackground">White</Color>
+    <Color x:Key="ChoiceButtonText">Black</Color>
 
     <Style TargetType="Border">
         <Setter Property="Stroke" Value="{AppThemeBinding Light={StaticResource LightGray}, Dark={StaticResource DarkGray}}" />

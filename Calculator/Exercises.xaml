@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculator.Exercises"
+             xmlns:local="clr-namespace:Calculator"
+             Title="Exercises">
+    <VerticalStackLayout>
+        <Label
+            x:Name="questionNumber"
+            Text="Question 1"
+            FontSize="50"
+            Padding="20" />
+
+        <Label
+            x:Name="questionContent"
+            Text="What is 10 + 28?"
+            FontSize="45"
+            Padding="20"
+            HorizontalOptions="Center"
+            VerticalOptions="Center" />
+
+        <Button
+            x:Name="choice1"
+            TextColor="{DynamicResource ChoiceButtonText}"
+            BackgroundColor="{DynamicResource ChoiceButtonBackground}"
+            BorderColor="Black"
+            BorderWidth="1"
+            CornerRadius="8"
+            Text="38"
+            Margin="20"
+            WidthRequest="200" />
+
+        <Button
+            x:Name="choice2"
+            TextColor="{DynamicResource ChoiceButtonText}"
+            BackgroundColor="{DynamicResource ChoiceButtonBackground}"
+            BorderColor="Black"
+            BorderWidth="1"
+            CornerRadius="8"
+            Text="48"
+            Margin="20"
+            WidthRequest="200" />
+
+        <Button
+            x:Name="choice3"
+            TextColor="{DynamicResource ChoiceButtonText}"
+            BackgroundColor="{DynamicResource ChoiceButtonBackground}"
+            BorderColor="Black"
+            BorderWidth="1"
+            CornerRadius="8"
+            Text="23"
+            Margin="20"
+            WidthRequest="200" />
+
+        <Button
+            x:Name="choice4"
+            TextColor="{DynamicResource ChoiceButtonText}"
+            BackgroundColor="{DynamicResource ChoiceButtonBackground}"
+            BorderColor="Black"
+            BorderWidth="1"
+            CornerRadius="8"
+            Text="92"
+            Margin="20"
+            WidthRequest="200" />
+    </VerticalStackLayout>
+</ContentPage>
