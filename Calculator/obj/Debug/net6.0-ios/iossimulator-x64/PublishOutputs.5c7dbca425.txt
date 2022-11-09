@@ -8,6 +8,7 @@
 /Users/tuan/Desktop/maui-calc/Calculator/bin/Debug/net6.0-ios/iossimulator-x64/publish/../Calculator.app/Microsoft.Extensions.Options.dll
 /Users/tuan/Desktop/maui-calc/Calculator/bin/Debug/net6.0-ios/iossimulator-x64/publish/../Calculator.app/Microsoft.Extensions.Primitives.dll
 /Users/tuan/Desktop/maui-calc/Calculator/bin/Debug/net6.0-ios/iossimulator-x64/publish/../Calculator.app/Microsoft.Maui.Graphics.dll
+/Users/tuan/Desktop/maui-calc/Calculator/bin/Debug/net6.0-ios/iossimulator-x64/publish/../Calculator.app/Newtonsoft.Json.dll
 /Users/tuan/Desktop/maui-calc/Calculator/bin/Debug/net6.0-ios/iossimulator-x64/publish/../Calculator.app/Calculator.dll
 /Users/tuan/Desktop/maui-calc/Calculator/bin/Debug/net6.0-ios/iossimulator-x64/publish/../Calculator.app/Microsoft.CSharp.dll
 /Users/tuan/Desktop/maui-calc/Calculator/bin/Debug/net6.0-ios/iossimulator-x64/publish/../Calculator.app/Microsoft.VisualBasic.Core.dll

@@ -1,6 +1,4 @@
 ﻿namespace Calculator;
-using System.Data;
-
 using System;
 using System.Data;
 using System.Threading.Tasks;
@@ -31,22 +29,29 @@ public partial class Exercises : ContentPage
 		return value;
 		
 	}
-	void isCorrect(object sender, EventArgs e)
+	async void isCorrect(object sender, EventArgs e)
 	{
 		DataTable dt = new DataTable();
-        Button button = (Button)sender;
-        string pressed = button.Text;
+		Button button = (Button)sender;
+		string pressed = button.Text;
+		var btn = (Button)sender;
 
-        if (dt.Compute(questionContent.Text,"").ToString()==pressed)
+		if (dt.Compute(questionContent.Text, "").ToString() == pressed)
 		{
 			id++;
-			//animation here
-			if (id ==11)
+
+            await DisplayAlert("Your answer is...", "Correct", "Go Next");
+
+            if (id == 11)
 			{
 				id = 1;
 			}
 			getExercise();
 		}
-		
+
+		else
+        {
+			await DisplayAlert("Your answer is...", "Incorrect", "Try Again");
+        }
 	}
 }

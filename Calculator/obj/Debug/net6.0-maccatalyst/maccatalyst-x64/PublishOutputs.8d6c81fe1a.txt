@@ -8,6 +8,7 @@
 /Users/tuan/Desktop/maui-calc/Calculator/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../Calculator.app/Contents/MonoBundle/Microsoft.Extensions.Options.dll
 /Users/tuan/Desktop/maui-calc/Calculator/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../Calculator.app/Contents/MonoBundle/Microsoft.Extensions.Primitives.dll
 /Users/tuan/Desktop/maui-calc/Calculator/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../Calculator.app/Contents/MonoBundle/Microsoft.Maui.Graphics.dll
+/Users/tuan/Desktop/maui-calc/Calculator/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../Calculator.app/Contents/MonoBundle/Newtonsoft.Json.dll
 /Users/tuan/Desktop/maui-calc/Calculator/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../Calculator.app/Contents/MonoBundle/Calculator.dll
 /Users/tuan/Desktop/maui-calc/Calculator/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../Calculator.app/Contents/MonoBundle/Microsoft.CSharp.dll
 /Users/tuan/Desktop/maui-calc/Calculator/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../Calculator.app/Contents/MonoBundle/Microsoft.VisualBasic.Core.dll

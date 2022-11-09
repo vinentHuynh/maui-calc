@@ -1192,6 +1192,10 @@ app_system_properties:
 .L.env.buf.288:
 	.zero	70
 	.size	.L.env.buf.288, 70
+	.type	.L.env.buf.289, @object
+.L.env.buf.289:
+	.zero	70
+	.size	.L.env.buf.289, 70
 	# Bundled assemblies data
 
 	.type	bundled_assemblies, @object
@@ -3223,7 +3227,14 @@ bundled_assemblies:
 	.long	0x0	# name_length
 	.long	.L.env.buf.288	# name
 
-	.size	bundled_assemblies, 6936
+	.long	0xffffffff	# apk_fd
+	.long	0x0	# data_offset
+	.long	0x0	# data_size
+	.long	0x0	# data
+	.long	0x0	# name_length
+	.long	.L.env.buf.289	# name
+
+	.size	bundled_assemblies, 6960
 	# Assembly store individual assembly data
 	.type	assembly_store_bundled_assemblies, @object
 	.global	assembly_store_bundled_assemblies
@@ -3436,7 +3447,7 @@ dso_cache:
 	.size	dso_cache, 640
 
 	#
-	# Generated from instance of: Xamarin.Android.Tasks.ApplicationConfig, Xamarin.Android.Build.Tasks, Version=12.3.99.76, Culture=neutral, PublicKeyToken=84e04ff9cfb79065
+	# Generated from instance of: Xamarin.Android.Tasks.ApplicationConfig, Xamarin.Android.Build.Tasks, Version=12.3.99.48, Culture=neutral, PublicKeyToken=84e04ff9cfb79065
 	#
 	.type	application_config, @object
 	.global	application_config
@@ -3459,7 +3470,7 @@ application_config:
 	.long	0x3	# package_naming_policy
 	.long	0xc	# environment_variable_count
 	.long	0x0	# system_property_count
-	.long	0x121	# number_of_assemblies_in_apk
+	.long	0x122	# number_of_assemblies_in_apk
 	.long	0x46	# bundled_assembly_name_width
 	.long	0x2	# number_of_assembly_store_files
 	.long	0x20	# number_of_dso_cache_entries
@@ -3511,7 +3522,7 @@ application_config:
 
 	.type	.L.autostr.8, @object
 .L.autostr.8:
-	.asciz	"00ee42b5-77fc-4825-afbf-eed953050e8d"
+	.asciz	"8912c93d-3e9b-4055-aefd-b7e79c0d296e"
 	.size	.L.autostr.8, 37
 
 	.type	.L.autostr.9, @object
@@ -3700,4 +3711,4 @@ application_config:
 	.size	.L.autostr.45, 27
 
 
-	.ident	"Xamarin.Android remotes/origin/release/6.0.4xx @ af4a25d50f5a602c77d05c2ec8c8644c00cffbbd"
+	.ident	"Xamarin.Android remotes/origin/release/6.0.4xx @ 2c639362ff709d9f9c090d8bb363b2d6b67945ce"

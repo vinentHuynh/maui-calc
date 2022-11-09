@@ -4,8 +4,8 @@
       <File FileName="Calculator/Calculator.cs" Line="1" Column="1" IsPinned="True" />
       <File FileName="Calculator/Exercises.xaml" Line="31" Column="13" />
       <File FileName="Calculator/AboutPage.xaml" Line="1" Column="1" />
-      <File FileName="Calculator/AppShell.xaml" />
-      <File FileName="Calculator/GetAPI.cs" Line="24" Column="1" />
+      <File FileName="Calculator/AppShell.xaml" Line="1" Column="1" />
+      <File FileName="Calculator/GetAPI.cs" Line="27" Column="1" />
       <File FileName="Calculator/Exercises.xaml.cs" Line="6" Column="19" />
       <File FileName="Calculator/ExercisesData.cs" Line="9" Column="45" />
       <File FileName="Calculator/App.xaml" Line="1" Column="1" />
@@ -44,11 +44,11 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
   <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MyAppleMacCatalystID" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
 </Properties>

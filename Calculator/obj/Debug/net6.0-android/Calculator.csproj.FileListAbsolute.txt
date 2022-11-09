@@ -5002,3 +5002,41 @@
 /Users/vincenthuynh/School/Coding/maui-calc/Calculator/obj/Debug/net6.0-android/stamp/_GenerateJavaStubs.stamp
 /Users/vincenthuynh/School/Coding/maui-calc/Calculator/obj/Debug/net6.0-android/stamp/_GeneratePackageManagerJava.stamp
 /Users/vincenthuynh/School/Coding/maui-calc/Calculator/obj/Debug/net6.0-android/stamp/_ResolveLibraryProjectImports.stamp
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/assets/Newtonsoft.Json.dll
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/activity/ktx/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/activity/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/annotation/experimental/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/appcompat/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/browser/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/core/ktx/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/core/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/emoji2/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/emoji2/viewsintegration/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/fragment/ktx/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/fragment/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/lifecycle/ktx/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/lifecycle/livedata/core/ktx/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/lifecycle/livedata/core/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/lifecycle/livedata/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/lifecycle/process/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/lifecycle/runtime/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/lifecycle/viewmodel/ktx/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/lifecycle/viewmodel/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/lifecycle/viewmodel/savedstate/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/localbroadcastmanager/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/navigation/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/savedstate/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/slidingpanelayout/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/startup/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/stamp/_BuildLibraryImportsCache 2.stamp
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/stamp/_CleanIntermediateIfNeeded 2.stamp
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/stamp/_ConvertResourcesCases 2.stamp
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/stamp/_ResolveLibraryProjectImports 2.stamp
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/navigation/fragment/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/navigation/ui/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/com/google/android/material/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/appcompat/resources/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/coordinatorlayout/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/cardview/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/media/R 2.java
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-android/android/src/androidx/navigation/common/R 2.java

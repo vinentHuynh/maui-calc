@@ -53,15 +53,9 @@
             Margin="20"
             WidthRequest="200" />
 
-        <Button
-            x:Name="choice4"
-            TextColor="{DynamicResource ChoiceButtonText}"
-            BackgroundColor="{DynamicResource ChoiceButtonBackground}"
-            BorderColor="Black"
-            BorderWidth="1"
-            CornerRadius="8"
-            
-            Margin="20"
-            WidthRequest="200" />
+        <Label x:Name="correctLabel"
+               Text="Correct"
+               FontSize="45"
+               Opacity="0" />
     </VerticalStackLayout>
 </ContentPage>
