@@ -12,6 +12,21 @@ urlFragment: apps-calculator
 
 #
 
+Project 2 - 
+
+YouTube link - https://www.youtube.com/watch?v=d6eBlzo30Rw
+
+Vincent Huynh (vinentHuynh) - Created and modified API data and URI, modified JSON strings and added the temp local api
+Commit codes: 464383f1ffeb79ff54b58ed9517b790b9e2eccd7, 231a3bc816c61c99abb757e8b45c17a942e38cd4, 1255dc8aab4b29d4b69c84d25c7bb6499bfb6513
+
+Kevin Le (lekevin) - Created API requests, deserializer, and backend logic for parsed data
+Commit codes: 035ffa0b4be69c16fb4ece5a37329fd148fe2103, defce18ecf0f0f2b08b7c2893f0b8bdcc680b0b2, e5ea478556c337e1250ca9d02b7a78e897720be0
+
+Tuan Nguyen (tuannguyencs) - Created UI elements and page for Exercises, initialized buttons, and added logic for correctness display
+Commit codes: b8b96ab840f73cdb74dc8a5abb97ac241f4f21e7, 32e016c527ff07f2b6ff06e4c3182ab6e89d8c36, f7d1d3090b75f798ee83d1c49ef7d404d8377404
+
+Project 1 -
+
 Vincent Huynh (vinentHuynh) - Modified the base page to support comprehensive expressions, as well as doing the new layout and functions for the 4 additional buttons.
 Commit codes: 38ca601343c6820f48a0df4a4348856ccd30d567, 6dbf8841d6016569b516f88e19809b11a0e25d6f,83b7c77c9c0322af2dd5793fb328bf8468ca4b0a
 
