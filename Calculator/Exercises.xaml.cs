@@ -51,7 +51,14 @@ public partial class Exercises : ContentPage
 
 		else
         {
-			await DisplayAlert("Your answer is...", "Incorrect", "Try Again");
+			bool answer = await DisplayAlert("Your answer is...", "Incorrect", "Skip to Next", "Try Again");
+
+			if (answer)
+			{
+				id++;
+
+				getExercise();
+			}
         }
 	}
 }

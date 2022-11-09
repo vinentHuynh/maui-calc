@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/vincenthuynh/.nuget/packages/": {}
+    "/Users/tuan/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vincenthuynh/School/Coding/maui-calc/exercise.api/exercise-api.csproj",
+      "projectUniqueName": "/Users/tuan/Desktop/maui-calc/exercise.api/exercise-api.csproj",
       "projectName": "exercise-api",
-      "projectPath": "/Users/vincenthuynh/School/Coding/maui-calc/exercise.api/exercise-api.csproj",
-      "packagesPath": "/Users/vincenthuynh/.nuget/packages/",
-      "outputPath": "/Users/vincenthuynh/School/Coding/maui-calc/exercise.api/obj/",
+      "projectPath": "/Users/tuan/Desktop/maui-calc/exercise.api/exercise-api.csproj",
+      "packagesPath": "/Users/tuan/.nuget/packages/",
+      "outputPath": "/Users/tuan/Desktop/maui-calc/exercise.api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/vincenthuynh/.nuget/NuGet/NuGet.Config"
+        "/Users/tuan/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100-rc.2.22477.23/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
       }
     }
   }
