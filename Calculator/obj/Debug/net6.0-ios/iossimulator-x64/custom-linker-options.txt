@@ -1,9 +1,10 @@
 AreAnyAssembliesTrimmed=false
 				AssemblyName=Calculator.dll
+				
 				AOTCompiler=/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.iossimulator-x64/6.0.9/Sdk/../tools/mono-aot-cross
 				AOTOutputDirectory=obj/Debug/net6.0-ios/iossimulator-x64/nativelibraries/aot-output/
 				AppBundleManifestPath=bin/Debug/net6.0-ios/iossimulator-x64/Calculator.app/Info.plist
-				CacheDirectory=/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-ios/iossimulator-x64/linker-cache
+				CacheDirectory=/Users/vincenthuynh/School/Coding/maui-calc/Calculator/obj/Debug/net6.0-ios/iossimulator-x64/linker-cache
 				
 				Debug=true
 				DeploymentTarget=14.2
@@ -179,7 +180,7 @@ FrameworkAssembly=System.Private.CoreLib
 				Interpreter=all
 				IntermediateLinkDir=obj/Debug/net6.0-ios/iossimulator-x64/linked/
 				InvariantGlobalization=false
-				ItemsDirectory=/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-ios/iossimulator-x64/linker-items
+				ItemsDirectory=/Users/vincenthuynh/School/Coding/maui-calc/Calculator/obj/Debug/net6.0-ios/iossimulator-x64/linker-items
 				IsAppExtension=false
 				IsSimulatorBuild=True
 				LibMonoLinkMode=dylib
@@ -196,18 +197,19 @@ MonoLibrary=/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.ios
 MonoLibrary=/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.iossimulator-x64/6.0.9/runtimes/iossimulator-x64/native/libmonosgen-2.0.dylib
 				MtouchFloat32=
 				Optimize=
-				PartialStaticRegistrarLibrary=/usr/local/share/dotnet/packs/Microsoft.iOS.Runtime.iossimulator-x64/15.4.447/runtimes/iossimulator-x64/native/Microsoft.iOS.registrar.a
+				PartialStaticRegistrarLibrary=/usr/local/share/dotnet/packs/Microsoft.iOS.Runtime.iossimulator-x64/16.0.523/runtimes/iossimulator-x64/native/Microsoft.iOS.registrar.a
 				Platform=iOS
 				PlatformAssembly=Microsoft.iOS.dll
 				RelativeAppBundlePath=../Calculator.app/
 				Registrar=
+				RequirePInvokeWrappers=
 				RuntimeConfigurationFile=runtimeconfig.bin
 				SdkDevPath=/Applications/Xcode.app/Contents/Developer
-				SdkRootDirectory=/usr/local/share/dotnet/packs/Microsoft.iOS.Sdk/15.4.447/
-				SdkVersion=15.5
+				SdkRootDirectory=/usr/local/share/dotnet/packs/Microsoft.iOS.Sdk/16.0.523/
+				SdkVersion=16.1
 				TargetArchitectures=x86_64
 				TargetFramework=.NETCoreApp,Version=v6.0,Profile=ios
 				UseLlvm=False
 				Verbosity=0
-				XamarinNativeLibraryDirectory=/usr/local/share/dotnet/packs/Microsoft.iOS.Runtime.iossimulator-x64/15.4.447/runtimes/iossimulator-x64/native
+				XamarinNativeLibraryDirectory=/usr/local/share/dotnet/packs/Microsoft.iOS.Runtime.iossimulator-x64/16.0.523/runtimes/iossimulator-x64/native
 				XamarinRuntime=MonoVM

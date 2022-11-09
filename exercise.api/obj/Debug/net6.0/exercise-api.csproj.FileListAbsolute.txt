@@ -40,3 +40,8 @@
 /Users/vincenthuynh/School/Coding/maui-calc/exercise.api/obj/Debug/net6.0/scopedcss/bundle/exercise-api.styles.css
 /Users/vincenthuynh/School/Coding/maui-calc/exercise.api/obj/Debug/net6.0/exercise-api.genruntimeconfig.cache
 /Users/vincenthuynh/School/Coding/maui-calc/exercise.api/obj/Debug/net6.0/ref/exercise-api.dll
+/Users/vincenthuynh/School/Coding/maui-calc/exercise.api/obj/Debug/net6.0/staticwebassets/msbuild.exercise-api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/vincenthuynh/School/Coding/maui-calc/exercise.api/obj/Debug/net6.0/staticwebassets/msbuild.build.exercise-api.props
+/Users/vincenthuynh/School/Coding/maui-calc/exercise.api/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.exercise-api.props
+/Users/vincenthuynh/School/Coding/maui-calc/exercise.api/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.exercise-api.props
+/Users/vincenthuynh/School/Coding/maui-calc/exercise.api/obj/Debug/net6.0/staticwebassets.pack.json

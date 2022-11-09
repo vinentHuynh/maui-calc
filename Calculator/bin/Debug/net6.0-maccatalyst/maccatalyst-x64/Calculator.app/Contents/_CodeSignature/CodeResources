@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		WdkoUC4ToyEGnmmWWil5mrbC9Sk=
+		K+GjqZkLogYWXhkQxZKo00zrwPk=
 		</data>
 		<key>Resources/MauiInfo.plist</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Resources/appicon.icns</key>
 		<data>
-		B4KsmCFROaxeh06URkMR6ym3goU=
+		5MfuLn+o/c9wSF6qnCS8OINcUi4=
 		</data>
 		<key>Resources/prof.png</key>
 		<data>
@@ -43,14 +43,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tanCiEkzNjkwFoyN8DToZ01VSgIXJf2cgMFjTsO4y+w=
+			n59h7pdNIJ34GEDYxHd9ifypTT/mG5PpugwoI3EgdQU=
 			</data>
 		</dict>
 		<key>MonoBundle/Calculator.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Tt61viomwL0MagQw7j3kXLv/6Mh1VCr0ozBVJ+7nGWs=
+			gjA7k2qOfUmZbPraoKBZOmFdN4Ju3yHx3iGmixi4X9k=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.CSharp.dll</key>
@@ -191,6 +191,13 @@
 			<key>hash2</key>
 			<data>
 			qHTQ75/VdsIZ1q8dgjvbDAI7l4mfTKtUh5wqY04Efd4=
+			</data>
+		</dict>
+		<key>MonoBundle/Newtonsoft.Json.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cs8pHUurDt0IqbB8YXPh560au3q3J/1wRL9jBddRVmE=
 			</data>
 		</dict>
 		<key>MonoBundle/System.AppContext.dll</key>
@@ -1387,7 +1394,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zn0uy3ScRyLMgwubl/2Gv0yTrxyS5TXIhO+JJfGsRH0=
+			tjCkrin3SgVOoXwYICkKJ6P4PuMFcpF0S8owgAm/UAE=
 			</data>
 		</dict>
 		<key>Resources/MauiInfo.plist</key>
@@ -1422,7 +1429,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NSlVKvdePBIB6S1FW2x0cJEDo5CUh9w8q6zNQQU4jmk=
+			oXU9SMv2KNyqIfrCblMVyhGDRQMeixTFCK/IsIwrgLo=
 			</data>
 		</dict>
 		<key>Resources/prof.png</key>

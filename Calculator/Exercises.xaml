@@ -7,13 +7,13 @@
     <VerticalStackLayout>
         <Label
             x:Name="questionNumber"
-            Text="Question 1"
+           
             FontSize="50"
             Padding="20" />
 
         <Label
             x:Name="questionContent"
-            Text="What is 10 + 28?"
+            
             FontSize="45"
             Padding="20"
             HorizontalOptions="Center"
@@ -26,8 +26,9 @@
             BorderColor="Black"
             BorderWidth="1"
             CornerRadius="8"
-            Text="38"
+            
             Margin="20"
+            Clicked="isCorrect"
             WidthRequest="200" />
 
         <Button
@@ -37,7 +38,7 @@
             BorderColor="Black"
             BorderWidth="1"
             CornerRadius="8"
-            Text="48"
+            Clicked="isCorrect"
             Margin="20"
             WidthRequest="200" />
 
@@ -48,7 +49,7 @@
             BorderColor="Black"
             BorderWidth="1"
             CornerRadius="8"
-            Text="23"
+            Clicked="isCorrect"
             Margin="20"
             WidthRequest="200" />
 
@@ -59,7 +60,7 @@
             BorderColor="Black"
             BorderWidth="1"
             CornerRadius="8"
-            Text="92"
+            
             Margin="20"
             WidthRequest="200" />
     </VerticalStackLayout>
