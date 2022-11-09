@@ -1,6 +1,10 @@
 ﻿namespace Calculator;
 using System.Data;
 
+using System;
+using System.Data;
+using System.Threading.Tasks;
+
 public partial class Exercises : ContentPage
 {
 	public int id = 1;
