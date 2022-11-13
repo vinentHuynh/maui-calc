@@ -1,29 +1,24 @@
-﻿<Properties StartupConfiguration="{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MyAppleMacCatalystID" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+﻿<Properties StartupConfiguration="{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Default" GitUserInfo="UsingMD">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/Exercises.xaml.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/GetAPI.cs">
     <Files>
       <File FileName="Calculator/Calculator.cs" Line="1" Column="1" IsPinned="True" />
-      <File FileName="Calculator/Exercises.xaml" Line="28" Column="29" />
-      <File FileName="Calculator/AboutPage.xaml" Line="1" Column="1" />
-      <File FileName="Calculator/AppShell.xaml" Line="1" Column="1" />
-      <File FileName="Calculator/GetAPI.cs" Line="30" Column="2" />
-      <File FileName="Calculator/Exercises.xaml.cs" Line="47" Column="12" />
-      <File FileName="Calculator/ExercisesData.cs" Line="9" Column="45" />
-      <File FileName="Calculator/App.xaml" Line="1" Column="1" />
-      <File FileName="Calculator/MainPage.xaml" Line="11" Column="43" />
-      <File FileName="Calculator/MauiProgram.cs" Line="15" Column="1" />
-      <File FileName="Calculator/AppShell.xaml.cs" Line="27" Column="10" />
-      <File FileName="Calculator/MainPage.xaml.cs" Line="77" Column="38" />
-      <File FileName="Calculator/BasicCalc.xaml" Line="1" Column="1" />
-      <File FileName="Calculator/BasicCalc.xaml.cs" Line="26" Column="9" />
-      <File FileName="Calculator/Platforms/MacCatalyst/Program.cs" Line="13" Column="1" />
+      <File FileName="Calculator/Exercises.xaml" />
+      <File FileName="Calculator/AboutPage.xaml" />
+      <File FileName="Calculator/AppShell.xaml" />
+      <File FileName="Calculator/GetAPI.cs" Line="32" Column="1" />
+      <File FileName="Calculator/Exercises.xaml.cs" />
+      <File FileName="Calculator/ExercisesData.cs" />
+      <File FileName="Calculator/App.xaml" />
+      <File FileName="Calculator/MainPage.xaml" />
+      <File FileName="Calculator/MauiProgram.cs" />
+      <File FileName="Calculator/AppShell.xaml.cs" />
+      <File FileName="Calculator/MainPage.xaml.cs" />
+      <File FileName="Calculator/BasicCalc.xaml" />
+      <File FileName="Calculator/BasicCalc.xaml.cs" />
+      <File FileName="Calculator/Platforms/MacCatalyst/Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -50,4 +45,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MyAppleMacCatalystID" />
 </Properties>

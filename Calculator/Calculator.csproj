@@ -91,11 +91,17 @@
 	<ItemGroup>
 	  <None Remove="Resources\Images\default-profile.png" />
 	  <None Remove="Newtonsoft.Json" />
+	  <None Remove="Models\" />
+	  <None Remove="ViewModel\" />
 	</ItemGroup>
 	<ItemGroup>
 	  <MauiImage Include="Resources\Images\prof.png" />
 	</ItemGroup>
 	<ItemGroup>
 	  <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="Models\" />
+	  <Folder Include="ViewModel\" />
 	</ItemGroup>
 </Project>
