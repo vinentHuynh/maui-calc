@@ -38,7 +38,12 @@
         ContentTemplate="{DataTemplate local:Exercises}"
         Route="Exercises" />
     </FlyoutItem>
-
+    <FlyoutItem Title="History" Icon="about.svg">
+        <ShellContent
+        Title="History"
+        ContentTemplate="{DataTemplate local:History}"
+        Route="History" />
+    </FlyoutItem>
     <MenuItem
         Text="Light Mode"
         Clicked="OnLight">

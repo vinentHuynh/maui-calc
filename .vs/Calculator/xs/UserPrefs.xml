@@ -1,37 +1,26 @@
 ﻿<Properties StartupConfiguration="{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Default" GitUserInfo="UsingMD">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/GetAPI.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/History.xaml">
     <Files>
-      <File FileName="Calculator/Calculator.cs" Line="1" Column="1" IsPinned="True" />
-      <File FileName="Calculator/Exercises.xaml" />
-      <File FileName="Calculator/AboutPage.xaml" />
-      <File FileName="Calculator/AppShell.xaml" />
-      <File FileName="Calculator/GetAPI.cs" Line="32" Column="1" />
-      <File FileName="Calculator/Exercises.xaml.cs" />
-      <File FileName="Calculator/ExercisesData.cs" />
-      <File FileName="Calculator/App.xaml" />
-      <File FileName="Calculator/MainPage.xaml" />
-      <File FileName="Calculator/MauiProgram.cs" />
-      <File FileName="Calculator/AppShell.xaml.cs" />
-      <File FileName="Calculator/MainPage.xaml.cs" />
-      <File FileName="Calculator/BasicCalc.xaml" />
-      <File FileName="Calculator/BasicCalc.xaml.cs" />
-      <File FileName="Calculator/Platforms/MacCatalyst/Program.cs" />
+      <File FileName="Calculator/History.xaml" Line="9" Column="41" />
+      <File FileName="Calculator/History.xaml.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Calculator" expanded="True">
             <Node name="Calculator" expanded="True">
-              <Node name="Platforms" expanded="True">
-                <Node name="MacCatalyst" expanded="True" />
-              </Node>
-              <Node name="App.xaml" expanded="True" />
-              <Node name="AppShell.xaml" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Platforms" expanded="True" />
+              <Node name="ViewModel" expanded="True" />
               <Node name="BasicCalc.xaml" expanded="True" />
-              <Node name="Exercises.xaml" expanded="True" />
+              <Node name="History.xaml" expanded="True">
+                <Node name="History.xaml.cs" selected="True" />
+              </Node>
               <Node name="MainPage.xaml" expanded="True" />
             </Node>
           </Node>

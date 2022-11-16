@@ -82,6 +82,9 @@
 	  <MauiXaml Update="Exercises.xaml">
 	    <SubType></SubType>
 	  </MauiXaml>
+	  <MauiXaml Update="History.xaml">
+	    <SubType></SubType>
+	  </MauiXaml>
 	</ItemGroup>
 	<ItemGroup>
 	  <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="AppShell.xaml.cs">

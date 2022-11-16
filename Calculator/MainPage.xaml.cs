@@ -1,20 +1,24 @@
 ﻿namespace Calculator;
 using System.Data;
+
 //using Android.Widget;
 
 public partial class MainPage : ContentPage
 {
-    
-    public MainPage()
+    public HistoryViewModel model;
+
+
+    public MainPage(HistoryViewModel viewModel)
     {
         InitializeComponent();
         OnClear(this, null);
-
+        BindingContext = viewModel;
+        model = viewModel;
     }
 
 
     
-
+  
     void OnSelectNumber(object sender, EventArgs e)
     {
     
@@ -81,10 +85,12 @@ public partial class MainPage : ContentPage
         {
             this.resultText.Text = dt.Compute(expression, "").ToString();
         }
-        
-        
-     
-        
+
+        model.Add(this.CurrentCalculation.Text);
+       
+
+
+
     }    
 
     void OnNegative(object sender, EventArgs e)
