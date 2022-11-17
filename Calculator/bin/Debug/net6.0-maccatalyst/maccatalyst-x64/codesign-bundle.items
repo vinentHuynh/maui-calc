@@ -12,7 +12,7 @@
       <CodesignDisableTimestamp>true</CodesignDisableTimestamp>
       <CodesignKeychain></CodesignKeychain>
       <CodesignUseHardenedRuntime></CodesignUseHardenedRuntime>
-      <SourceProjectPath>/Users/vincenthuynh/School/Coding/maui-calc/Calculator</SourceProjectPath>
+      <SourceProjectPath>/Users/tuan/Desktop/maui-calc/Calculator</SourceProjectPath>
     </_CodesignBundle>
   </ItemGroup>
 </Project>

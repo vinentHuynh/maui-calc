@@ -1,1 +1,0 @@
-C:\Users\vince\OneDrive\Documents\GitHub\maui-calculator\Calculator\Calculator.csproj;x64

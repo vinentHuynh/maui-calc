@@ -1,33 +1,33 @@
 ﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Default">
-  <MultiItemStartupConfigurations />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
-  <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MyAppleMacCatalystID" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/Exercises.xaml">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/History.xaml">
     <Files>
       <File FileName="Calculator/Calculator.cs" Line="1" Column="1" IsPinned="True" />
-      <File FileName="Calculator/GetAPI.cs" Line="32" Column="1" />
-      <File FileName="Calculator/Exercises.xaml.cs" Line="1" Column="1" />
-      <File FileName="Calculator/ExercisesData.cs" Line="1" Column="1" />
-      <File FileName="Calculator/MauiProgram.cs" Line="1" Column="1" />
-      <File FileName="Calculator/AppShell.xaml.cs" Line="1" Column="1" />
-      <File FileName="Calculator/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="Calculator/BasicCalc.xaml.cs" Line="12" Column="1" />
-      <File FileName="Calculator/Platforms/MacCatalyst/Program.cs" Line="1" Column="1" />
-      <File FileName="Calculator/ViewModel/HistoryViewModel.cs" Line="52" Column="1" />
-      <File FileName="Calculator/Exercises.xaml" Line="11" Column="26" />
-      <File FileName="Calculator/AboutPage.xaml" Line="1" Column="1" />
-      <File FileName="Calculator/AppShell.xaml" Line="1" Column="1" />
-      <File FileName="Calculator/App.xaml" Line="1" Column="1" />
-      <File FileName="Calculator/MainPage.xaml" Line="1" Column="1" />
-      <File FileName="Calculator/BasicCalc.xaml" Line="29" Column="1" />
-      <File FileName="Calculator/History.xaml" Line="12" Column="20" />
-      <File FileName="Calculator/History.xaml.cs" Line="9" Column="14" />
-      <File FileName="Calculator/Models/HistoryModel.cs" Line="1" Column="1" />
+      <File FileName="Calculator/GetAPI.cs" />
+      <File FileName="Calculator/Exercises.xaml.cs" />
+      <File FileName="Calculator/ExercisesData.cs" />
+      <File FileName="Calculator/MauiProgram.cs" />
+      <File FileName="Calculator/AppShell.xaml.cs" />
+      <File FileName="Calculator/MainPage.xaml.cs" />
+      <File FileName="Calculator/BasicCalc.xaml.cs" />
+      <File FileName="Calculator/Platforms/MacCatalyst/Program.cs" />
+      <File FileName="Calculator/ViewModel/HistoryViewModel.cs" />
+      <File FileName="Calculator/Exercises.xaml" />
+      <File FileName="Calculator/AboutPage.xaml" />
+      <File FileName="Calculator/AppShell.xaml" />
+      <File FileName="Calculator/App.xaml" />
+      <File FileName="Calculator/MainPage.xaml" />
+      <File FileName="Calculator/BasicCalc.xaml" />
+      <File FileName="Calculator/History.xaml" Line="20" Column="56" />
+      <File FileName="Calculator/History.xaml.cs" Line="11" Column="1" />
+      <File FileName="Calculator/Models/HistoryModel.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -37,16 +37,10 @@
               <Node name="Models" expanded="True" />
               <Node name="Platforms" expanded="True" />
               <Node name="ViewModel" expanded="True" />
-              <Node name="Exercises.xaml" selected="True" />
+              <Node name="Exercises.xaml" expanded="True" />
               <Node name="History.xaml" expanded="True" />
             </Node>
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State>
-          <Value>dt.Compute(questionContent.Text,"")</Value>
-          <Value>id</Value>
         </State>
       </Pad>
     </Pads>
