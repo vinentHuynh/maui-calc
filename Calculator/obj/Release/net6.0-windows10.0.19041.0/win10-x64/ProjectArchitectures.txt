@@ -1,0 +1,1 @@
+C:\Users\lekev\OneDrive\Documents\Desktop\calc\maui-calc\Calculator\Calculator.csproj;x64
