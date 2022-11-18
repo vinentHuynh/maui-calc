@@ -11,7 +11,7 @@
         <FontImageSource Color="LightGrey" Size="24" Glyph="&#xf30c;"/>
     </Shell.FlyoutIcon>
 
-    <FlyoutItem Title="Calculator" Icon="calc.png">
+    <FlyoutItem Title="Calculator">
         <ShellContent
         Title="Home"
         ContentTemplate="{DataTemplate local:MainPage}"

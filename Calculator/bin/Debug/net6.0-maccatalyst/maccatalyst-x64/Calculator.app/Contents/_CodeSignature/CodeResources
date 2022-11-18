@@ -12,6 +12,10 @@
 		<data>
 		jhtHs9fUeFWDw2A+RrIRc31LqPk=
 		</data>
+		<key>Resources/Images/calc.png</key>
+		<data>
+		czZF/dzbAJieYtcSma0Yw0xNjtw=
+		</data>
 		<key>Resources/MauiInfo.plist</key>
 		<data>
 		iEtuUGCV6JM3gxS/pO33swhmpp8=
@@ -32,6 +36,14 @@
 		<data>
 		L9cHAOVSlaW2jMaBgy7GlIBZdZg=
 		</data>
+		<key>Resources/calc.png</key>
+		<data>
+		czZF/dzbAJieYtcSma0Yw0xNjtw=
+		</data>
+		<key>Resources/prof 2.png</key>
+		<data>
+		tzZ7GtPqTG0oMGeUIpH2LOF7EQ0=
+		</data>
 		<key>Resources/prof.png</key>
 		<data>
 		tzZ7GtPqTG0oMGeUIpH2LOF7EQ0=
@@ -43,7 +55,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iIl7S10Fr6TGAYY4KXBPqxtIOnOHi0QrkPuQjs6TW1c=
+			Gt2TXYLdqnnG5YC5A5Ps6vexU6sJg3K22XtiiWc25Gc=
 			</data>
 		</dict>
 		<key>MonoBundle/Calculator.pdb</key>
@@ -1397,6 +1409,13 @@
 			ia+ht3IZb9aCMBNRPgO3NT1FfqUPXEaB4NPMViGJTmU=
 			</data>
 		</dict>
+		<key>Resources/Images/calc.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ypb1I9OcvpULZJm79WdNAC+OySyJWvxPAF7x272qktA=
+			</data>
+		</dict>
 		<key>Resources/MauiInfo.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -1430,6 +1449,20 @@
 			<key>hash2</key>
 			<data>
 			H4w+DqGNITnXOEy4UxkSBph9BjGxHf/ui2zq6lzv5a0=
+			</data>
+		</dict>
+		<key>Resources/calc.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ypb1I9OcvpULZJm79WdNAC+OySyJWvxPAF7x272qktA=
+			</data>
+		</dict>
+		<key>Resources/prof 2.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			j6irsG0nOMpm+jPrMq9Pakgrn+5QQFie2QGMBeYol7c=
 			</data>
 		</dict>
 		<key>Resources/prof.png</key>

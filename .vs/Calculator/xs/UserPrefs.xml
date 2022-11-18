@@ -3,11 +3,9 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
-  <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MyAppleMacCatalystID" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/History.xaml">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/Exercises.xaml">
     <Files>
       <File FileName="Calculator/Calculator.cs" Line="1" Column="1" IsPinned="True" />
       <File FileName="Calculator/GetAPI.cs" />
@@ -18,16 +16,16 @@
       <File FileName="Calculator/MainPage.xaml.cs" />
       <File FileName="Calculator/BasicCalc.xaml.cs" />
       <File FileName="Calculator/Platforms/MacCatalyst/Program.cs" />
-      <File FileName="Calculator/ViewModel/HistoryViewModel.cs" />
-      <File FileName="Calculator/Exercises.xaml" />
+      <File FileName="Calculator/ViewModel/HistoryViewModel.cs" Line="1" Column="1" />
+      <File FileName="Calculator/Exercises.xaml" Line="24" Column="59" />
       <File FileName="Calculator/AboutPage.xaml" />
       <File FileName="Calculator/AppShell.xaml" />
       <File FileName="Calculator/App.xaml" />
       <File FileName="Calculator/MainPage.xaml" />
       <File FileName="Calculator/BasicCalc.xaml" />
       <File FileName="Calculator/History.xaml" Line="20" Column="56" />
-      <File FileName="Calculator/History.xaml.cs" Line="11" Column="1" />
-      <File FileName="Calculator/Models/HistoryModel.cs" />
+      <File FileName="Calculator/History.xaml.cs" />
+      <File FileName="Calculator/Models/HistoryModel.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -37,7 +35,7 @@
               <Node name="Models" expanded="True" />
               <Node name="Platforms" expanded="True" />
               <Node name="ViewModel" expanded="True" />
-              <Node name="Exercises.xaml" expanded="True" />
+              <Node name="Exercises.xaml" expanded="True" selected="True" />
               <Node name="History.xaml" expanded="True" />
             </Node>
           </Node>
@@ -45,4 +43,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

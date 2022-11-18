@@ -96,9 +96,11 @@
 	  <None Remove="Newtonsoft.Json" />
 	  <None Remove="Models\" />
 	  <None Remove="ViewModel\" />
+	  <None Remove="Resources\Images\calc.png" />
 	</ItemGroup>
 	<ItemGroup>
 	  <MauiImage Include="Resources\Images\prof.png" />
+	  <MauiImage Include="Resources\Images\calc.png" />
 	</ItemGroup>
 	<ItemGroup>
 	  <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />

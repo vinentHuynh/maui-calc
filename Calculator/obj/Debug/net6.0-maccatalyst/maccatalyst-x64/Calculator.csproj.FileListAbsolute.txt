@@ -252,3 +252,5 @@
 /Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Calculator.pdb
 /Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/Calculator.genruntimeconfig.cache
 /Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/ref/Calculator.dll
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Resources/calc.png
+/Users/tuan/Desktop/maui-calc/Calculator/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Resources/prof 2.png
