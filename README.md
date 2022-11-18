@@ -12,6 +12,19 @@ urlFragment: apps-calculator
 
 #
 
+Project 3 -
+
+YouTube link - https://youtu.be/rAr0Sn0RtBc
+
+Vincent Huynh (vinentHuynh) - Created and implemented the ViewModel, and got data to transfer through the Calculator to the ViewModel (Pass by Ref)
+Commit codes: 830be7a0a8e8bc5886e71980212eefa1203e87ab, 8ff7ff459071e19de40f3eeb1663b8d3f2aa1ff4
+
+Kevin Le (lekevin) - Added swipe views for the ListView items and styled the font and spacing to make it look more presentable
+Commit code: b4984ce959f6ceeb3ffb82b5cca814a124b966a4
+
+Tuan Nguyen (tuannguyencs) - Implemented ListView into the History page to output the values passed by the ViewModel, as well as small minor fixes
+Commit code: bfb9c8b6af10961afe70936a34a89ef88a65836a
+
 Project 2 - 
 
 YouTube link - https://www.youtube.com/watch?v=d6eBlzo30Rw
