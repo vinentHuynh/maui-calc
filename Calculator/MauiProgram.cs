@@ -9,7 +9,11 @@ public static class MauiProgram
 		builder.Services
 			.AddSingleton<MainPage>()
 			.AddSingleton<History>()
-			.AddSingleton<HistoryViewModel>();
+			.AddSingleton<HistoryViewModel>()
+			.AddSingleton<HistoryDB>()
+			.AddSingleton<HistoryData>();
+			
+
             
         builder
 			.UseMauiApp<App>()

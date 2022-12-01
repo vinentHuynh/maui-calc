@@ -55,6 +55,9 @@
 	  <MauiXaml Update="AboutPage.xaml">
 	    <SubType></SubType>
 	  </MauiXaml>
+	  <MauiXaml Update="HistoryData.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Resources\Styles\Styles.xaml">
 	    <SubType></SubType>
 	  </MauiXaml>
@@ -106,6 +109,7 @@
 	  <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
 	  <PackageReference Include="SQLite" Version="3.13.0" />
 	  <PackageReference Include="sqlite-net" Version="1.6.292" />
+	  <PackageReference Include="sqlite-net-pcl" Version="1.8.116" />
 	  <PackageReference Include="System.Data.SQLite" Version="1.0.117" />
 	  <PackageReference Include="System.Data.SQLite.Core" Version="1.0.117" />
 	</ItemGroup>

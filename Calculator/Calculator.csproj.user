@@ -17,5 +17,8 @@
     <MauiXaml Update="History.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="HistoryData.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
   </ItemGroup>
 </Project>

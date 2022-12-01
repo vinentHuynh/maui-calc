@@ -1,19 +1,27 @@
 ﻿namespace Calculator;
 using System.Data;
+using Models;
 
 //using Android.Widget;
-
+[QueryProperty("Item", "Item")]
 public partial class MainPage : ContentPage
 {
     public HistoryViewModel model;
 
-
-    public MainPage(HistoryViewModel viewModel)
+    HistoryModel item;
+    public HistoryModel Item
+    {
+        get => BindingContext as HistoryModel;
+        set => BindingContext = value;
+    }
+    HistoryDB database;
+    public MainPage(HistoryViewModel viewModel, HistoryDB history)
     {
         InitializeComponent();
         OnClear(this, null);
         BindingContext = viewModel;
         model = viewModel;
+        database= history;
     }
 
 
@@ -58,7 +66,7 @@ public partial class MainPage : ContentPage
         this.CurrentCalculation.Text = string.Empty;
     }
 
-    void OnCalculate(object sender, EventArgs e)
+    async void OnCalculate(object sender, EventArgs e)
     {
         
 
@@ -87,8 +95,11 @@ public partial class MainPage : ContentPage
         }
 
         model.Add(this.CurrentCalculation.Text);
-       
-
+        
+        HistoryModel  history = new HistoryModel();
+        history.historyString= this.CurrentCalculation.Text;
+        Item = history;
+        await database.AddEquationAsync(Item);
 
 
     }    
