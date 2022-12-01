@@ -28,11 +28,14 @@ public partial class HistoryData : ContentPage
     async void OnClear(object sender, EventArgs e)
     {
         await database.DeleteAll();
-        var page = Application.Current.MainPage.Navigation.NavigationStack.LastOrDefault();
-        await Shell.Current.GoToAsync("//HistoryData",true, new Dictionary<string, object>
-            {
-            ["Item"] = new HistoryModel()
-        });
+
+        // UPDATE PAGE HERE
+
+        //var page = Application.Current.MainPage.Navigation.NavigationStack.LastOrDefault();
+        //await Shell.Current.GoToAsync("//HistoryData",true, new Dictionary<string, object>
+        //    {
+        //    ["Item"] = new HistoryModel()
+        //});
         //Navigation.RemovePage(page);
 
     }
