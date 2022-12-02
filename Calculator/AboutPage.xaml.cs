@@ -7,7 +7,22 @@ using System.Windows.Input;
 
 public partial class AboutPage : ContentPage
 {
-	private async void OnLearnMoreClicked(object sender, EventArgs e)
+    public Microsoft.Maui.FontWeight Weight { get; }
+
+    public enum FontWeight
+	{
+		Black = 900,
+		Bold = 700,
+		Heavy = 800,
+		Light = 300,
+		Medium = 500,
+		Regular = 400,
+		Semibold = 600,
+		Thin = 100,
+		Ultralight = 200
+	}
+
+    private async void OnLearnMoreClicked(object sender, EventArgs e)
 	{
 		try
 		{
