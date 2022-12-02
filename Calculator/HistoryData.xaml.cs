@@ -29,7 +29,12 @@ public partial class HistoryData : ContentPage
     }
     private async void OnClear(object sender, EventArgs e)
     {
-        Items.Clear();
-        await database.DeleteAll();
+        bool answer = await DisplayAlert("Confirm", "Are you sure you want to delete?", "Yes", "No");
+
+        if (answer)
+        {
+            Items.Clear();
+            await database.DeleteAll();
+        }
     }
 }

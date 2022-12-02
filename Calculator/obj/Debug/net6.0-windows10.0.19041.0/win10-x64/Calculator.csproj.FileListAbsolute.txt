@@ -1136,3 +1136,4 @@ C:\Users\lekev\OneDrive\Documents\Desktop\calc\maui-calc\Calculator\bin\Debug\ne
 C:\Users\lekev\OneDrive\Documents\Desktop\calc\maui-calc\Calculator\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLite.Interop.dll
 C:\Users\lekev\OneDrive\Documents\Desktop\calc\maui-calc\Calculator\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\calc.scale-100.png
 C:\Users\lekev\OneDrive\Documents\Desktop\calc\maui-calc\Calculator\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\HelveticaLTStd-Blk.otf
+C:\Users\8826t\Documents\GitHub\maui-calc\Calculator\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\HelveticaLTStd-Blk.otf
