@@ -5,74 +5,38 @@
              xmlns:local="clr-namespace:Calculator"
              Title="About Us">
     <StackLayout
-        HorizontalOptions="FillAndExpand" 
-        VerticalOptions="FillAndExpand">
-        <Grid
-            HorizontalOptions="FillAndExpand" 
-            VerticalOptions="FillAndExpand"
-            ColumnSpacing="0"
-            RowSpacing="0"
-            ColumnDefinitions="*,*,*" 
-            RowDefinitions="*,*,*">
-
+        HorizontalOptions="Center" 
+        VerticalOptions="Center">
         <Label
-            Grid.Row="0"
-            Grid.ColumnSpan="3"
+            HorizontalTextAlignment="Start"
             FontSize="48"
-            FontAttributes="Bold"
-            VerticalTextAlignment="Center"
-            HorizontalTextAlignment="Center"
-            BackgroundColor="{DynamicResource MeetTheDevsBackground}"
-            >Meet the Devs</Label>
-
-        <Label
-            Grid.Row="1"
-            Grid.RowSpan="2"
-            Grid.ColumnSpan="3"
-            BackgroundColor="{DynamicResource LowerAboutBackground}"/>
-
-        <Label
-                Grid.Row="1"
-                Grid.Column="0"
-                FontSize="32"
-                FontAttributes="Bold"
-                VerticalTextAlignment="Center"
-                HorizontalTextAlignment="Center">Tuan Nguyen</Label>
-
-        <Label FontSize="32"
-                Grid.Row="1"
-                Grid.Column="1"
-                FontAttributes="Bold"
-                VerticalTextAlignment="Center"
-                HorizontalTextAlignment="Center">Kevin Le</Label>
-
-        <Label
-                FontSize="32"
-                Grid.Row="1"
-                Grid.Column="2"
-                FontAttributes="Bold"
-                VerticalTextAlignment="Center"
-                HorizontalTextAlignment="Center">Vincent Huynh</Label>
-                    
-        <Image Source="prof.png"
-               Grid.Row="2"
-               Grid.Column="0"
-               HeightRequest="200"
-               WidthRequest="200"/>
-
-        <Image Source="prof.png"
-               Grid.Row="2"
-               Grid.Column="1"
-               HeightRequest="200"
-               WidthRequest="200"/>
-
+            FontFamily="Helvetica"
+            Margin="0, 20, 0, 20">Our Calculator</Label>
         <Image
-               Source="prof.png"
-               Grid.Row="2"
-               Grid.Column="2"
-               HeightRequest="200"
-               WidthRequest="200"/>
-        </Grid>
+            Source="https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-72908.jpg"
+            BackgroundColor="White"
+            MaximumWidthRequest="600"
+            HorizontalOptions="Start"
+            Margin="0, 20, 0, 20"/>
+        <Label
+            HorizontalTextAlignment="Start"
+            FontSize="36"
+            FontFamily="Helvetica"
+            Margin="0, 20, 0, 20">Our Team</Label>
+        <Label
+            HorizontalTextAlignment="Start"
+            MaximumWidthRequest="800">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </Label>
+        <Label
+            HorizontalTextAlignment="Start"
+            FontSize="36"
+            FontFamily="Helvetica"
+            Margin="0, 20, 0, 20">Our Mission</Label>
+        <Label
+            HorizontalTextAlignment="Start"
+            MaximumWidthRequest="800">The FitnessGram PACER Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The test is used to measure a student's aerobic capacity as part of the FitnessGram assessment. Students run back and forth as many times as they can, each lap signaled by a beep sound. The test get progressively faster as it continues until the student reaches their max lap score.
+        </Label>
+        
     </StackLayout>
     
 </ContentPage>

@@ -95,6 +95,7 @@
 	  </Compile>
 	</ItemGroup>
 	<ItemGroup>
+	  <None Remove="Resources\Fonts\HelveticaLTStd-Blk.otf" />
 	  <None Remove="Resources\Images\default-profile.png" />
 	  <None Remove="Newtonsoft.Json" />
 	  <None Remove="Models\" />

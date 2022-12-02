@@ -1,1 +1,1 @@
-C:\Users\8826t\Documents\GitHub\maui-calc\Calculator\Calculator.csproj;x64
+C:\Users\lekev\OneDrive\Documents\Desktop\calc\maui-calc\Calculator\Calculator.csproj;x64
