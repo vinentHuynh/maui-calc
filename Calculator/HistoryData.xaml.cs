@@ -1,6 +1,8 @@
 using System.Collections.ObjectModel;
 using Calculator;
 using Calculator.Models;
+using SQLite;
+
 namespace Calculator;
 
 public partial class HistoryData : ContentPage
@@ -27,16 +29,7 @@ public partial class HistoryData : ContentPage
     }
     async void OnClear(object sender, EventArgs e)
     {
+        Items.Clear();
         await database.DeleteAll();
-
-        // UPDATE PAGE HERE
-
-        //var page = Application.Current.MainPage.Navigation.NavigationStack.LastOrDefault();
-        //await Shell.Current.GoToAsync("//HistoryData",true, new Dictionary<string, object>
-        //    {
-        //    ["Item"] = new HistoryModel()
-        //});
-        //Navigation.RemovePage(page);
-
     }
 }
