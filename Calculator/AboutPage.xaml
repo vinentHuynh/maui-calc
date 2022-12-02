@@ -58,6 +58,35 @@
                 Padding="5"
                 Clicked="OnLearnMoreClicked">
             </Button>
+            <Image
+                Source="https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-72910.jpg"
+                BackgroundColor="White"
+                MaximumWidthRequest="500"
+                HorizontalOptions="Start"
+                Margin="0, 20, 0, 20">
+            </Image>
+            <Label
+            HorizontalTextAlignment="Start"
+            FontSize="36"
+            FontFamily="Helvetica"
+            Margin="0, 20, 0, 20">Our Partners</Label>
+
+            <Label
+            HorizontalTextAlignment="Start"
+            MaximumWidthRequest="600">We like to say that we are not in the coffee business serving people, but in the people business serving coffee. Our employees – who we call partners – are at the heart of the Starbucks experience. We are committed to making our partners proud and investing in their health, well-being and success and to creating a culture of belonging where everyone is welcome.
+            </Label>
+            <Button
+                CornerRadius="22"
+                BorderWidth="3"
+                Text="Explore Careers"
+                HeightRequest="40"
+                WidthRequest="160"
+                FontSize="16"
+                HorizontalOptions="Start"
+                Margin="0, 20, 0, 20"
+                Padding="5"
+                Clicked="OnLearnMoreClicked">
+            </Button>
         </StackLayout>
     </ScrollView>
 </ContentPage>
