@@ -3,17 +3,25 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Calculator.HistoryData"
              Title="HistoryData">
-    <Grid RowDefinitions="100, Auto, *"
+    <Grid RowDefinitions="100, Auto, Auto"
           ColumnDefinitions=".75*, .25*"
           Padding="10">
 
-        <Image Grid.ColumnSpan="2"
-               Source="calc.png"
-               BackgroundColor="LightGray" />
-        <Button Text="Clear" 
-               Clicked="OnClear" />
+        <Image Grid.Row="0"
+               Grid.ColumnSpan="2"
+               Source="calc.png" />
+        <Button Grid.Row="1"
+                Grid.ColumnSpan="2"
+                Margin="25"
+                CornerRadius="15"
+                BorderColor="Black"
+                BorderWidth="1"
+                MaximumWidthRequest="200"
+                Text="Clear All"
+                Clicked="OnClear" />
         <CollectionView Grid.Row="2" Grid.ColumnSpan="2"
-                        ItemsSource="{Binding Items}">
+                        ItemsSource="{Binding Items}"
+                        MaximumWidthRequest="500">
             <CollectionView.ItemTemplate>
                 
                 <DataTemplate>
@@ -26,9 +34,10 @@
                             
                         </SwipeView.RightItems>
                         <Grid Padding="0, 5">
-                            <Frame>
+                            <Frame CornerRadius="15">
                                 <Label Text="{Binding historyString}"
-                                       FontSize="24">
+                                       FontSize="24"
+                                       HorizontalTextAlignment="Center">
                                 </Label>
                             </Frame>
                         </Grid>

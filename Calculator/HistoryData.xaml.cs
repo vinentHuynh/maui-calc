@@ -27,7 +27,7 @@ public partial class HistoryData : ContentPage
 
         });
     }
-    async void OnClear(object sender, EventArgs e)
+    private async void OnClear(object sender, EventArgs e)
     {
         Items.Clear();
         await database.DeleteAll();
