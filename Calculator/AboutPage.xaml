@@ -4,39 +4,60 @@
              x:Class="Calculator.AboutPage"
              xmlns:local="clr-namespace:Calculator"
              Title="About Us">
-    <StackLayout
+    <ScrollView>
+        <StackLayout
         HorizontalOptions="Center" 
         VerticalOptions="Center">
-        <Label
+            <Label
             HorizontalTextAlignment="Start"
             FontSize="48"
             FontFamily="Helvetica"
             Margin="0, 20, 0, 20">Our Calculator</Label>
-        <Image
+            <Image
             Source="https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-72908.jpg"
             BackgroundColor="White"
             MaximumWidthRequest="600"
             HorizontalOptions="Start"
             Margin="0, 20, 0, 20"/>
-        <Label
+            <Label
             HorizontalTextAlignment="Start"
             FontSize="36"
             FontFamily="Helvetica"
             Margin="0, 20, 0, 20">Our Team</Label>
-        <Label
+            <Label
             HorizontalTextAlignment="Start"
-            MaximumWidthRequest="800">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </Label>
-        <Label
+            MaximumWidthRequest="600">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </Label>
+            <Image
+                Source="https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-72909.jpg"
+                BackgroundColor="White"
+                MaximumWidthRequest="500"
+                HorizontalOptions="Start"
+                Margin="0, 20, 0, 20">
+            </Image>
+            <Label
             HorizontalTextAlignment="Start"
             FontSize="36"
             FontFamily="Helvetica"
             Margin="0, 20, 0, 20">Our Mission</Label>
-        <Label
+            
+            <Label
             HorizontalTextAlignment="Start"
-            MaximumWidthRequest="800">The FitnessGram PACER Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The test is used to measure a student's aerobic capacity as part of the FitnessGram assessment. Students run back and forth as many times as they can, each lap signaled by a beep sound. The test get progressively faster as it continues until the student reaches their max lap score.
-        </Label>
-        
-    </StackLayout>
-    
+            MaximumWidthRequest="600">The FitnessGram PACER Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The test is used to measure a student's aerobic capacity as part of the FitnessGram assessment. Students run back and forth as many times as they can, each lap signaled by a beep sound. The test get progressively faster as it continues until the student reaches their max lap score.
+            </Label>
+
+            <Button
+                CornerRadius="22"
+                BorderWidth="3"
+                Text="Learn More"
+                HeightRequest="40"
+                WidthRequest="120"
+                FontSize="16"
+                HorizontalOptions="Start"
+                Margin="0, 20, 0, 20"
+                Padding="5"
+                Clicked="OnLearnMoreClicked">
+            </Button>
+        </StackLayout>
+    </ScrollView>
 </ContentPage>
