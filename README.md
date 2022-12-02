@@ -12,6 +12,19 @@ urlFragment: apps-calculator
 
 #
 
+Project 4 -
+
+YouTube link - https://www.youtube.com/watch?v=KxJiwojJYtA
+
+Vincent Huynh (vinentHuynh) - Added database model, connection class, and connected to SQLite
+Commit codes: f6090d7a6273dcd150594496235ca120020d041f, d9d8a834aaec88a8fc2586d156098ac84fd067bf, 0ce04eb8a583fb189b0df2fd95c231d76f9dd142
+
+Kevin Le (lekevin) - Edited about page, added fonts, scrolling, buttons, and revamped the look of the page
+Commit codes: 2a76759baee43260833fc54351174ed44d467e7a, 7a472e4e244589344007cf3861f5822f61325253, 9114b5eada9a2aca5721087bf01aac2bc9240b16
+
+Tuan Nguyen (tuannguyencs) - Implemented the refresh of the clear button, changed UI of HistoryData page, added DisplayAlert for button
+Commit codes: 0b5346be7e9c2bc6cac4cf1f461d74b994842087, a492fcd6decc05ffb9f74a8991aa9493f9c4a72a, 63286a01e4a34737baffc1731de2b64d6c39bfeb
+
 Project 3 -
 
 YouTube link - https://youtu.be/rAr0Sn0RtBc
